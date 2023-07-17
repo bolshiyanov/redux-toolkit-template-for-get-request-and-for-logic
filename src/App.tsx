@@ -14,6 +14,7 @@ const  App = () => {
       <h1>{count}</h1>
       <button onClick={() => dispatch(increment(1))}> INCREMENT</button>
       <button onClick={() => dispatch(decrement(1))}> DECREMENT</button>
+    <div className="link"><a href="https://github.com/bolshiyanov/redux_toolkit_rtk_query_pro_template">Code Git here</a></div>
     </div>
   );
 }
