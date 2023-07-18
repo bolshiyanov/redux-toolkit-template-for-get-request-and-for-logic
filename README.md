@@ -1,4 +1,4 @@
-# React-Redux-Thunk-rtkQuery
+# redux-toolkit-template-for-get-request-and-for-logic
 
 
 
