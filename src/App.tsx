@@ -91,7 +91,7 @@ const App = () => {
 
       
       <div className="link">
-        <a href="https://github.com/bolshiyanov/redux_toolkit_rtk_query_pro_template">
+        <a href="https://github.com/bolshiyanov/redux-toolkit-template-for-get-request-and-for-logic">
           Code Git here
         </a>
       </div>
