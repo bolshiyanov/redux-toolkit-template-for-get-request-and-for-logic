@@ -3,8 +3,10 @@
 }
 
 .link {
-  position: absolute;
-  bottom: 20px;
+  position: fixed;
+  bottom: 0px;
   font-size: 14px;
   width: 100%;
+  background-color: white;
+  padding-bottom: 10px;
 }
